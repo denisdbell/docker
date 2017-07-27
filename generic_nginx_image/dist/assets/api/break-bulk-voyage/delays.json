@@ -1,0 +1,74 @@
+[
+  {
+    "delayType": "Rain",
+    "delayRemarks": "Eu sint amet est ad amet velit aliquip ea.",
+    "started": "Sun Dec 25 1977 21:50:55 GMT-0500 (Eastern Standard Time)",
+    "ended": "Sat Jan 26 1974 08:23:23 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  },
+  {
+    "delayType": "Rain",
+    "delayRemarks": "Aliquip pariatur cupidatat in occaecat excepteur nostrud aliquip anim.",
+    "started": "Wed Dec 21 2005 08:51:25 GMT-0500 (Eastern Standard Time)",
+    "ended": "Tue Jan 28 2014 11:43:13 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  },
+  {
+    "delayType": "Strike",
+    "delayRemarks": "Dolor sint deserunt cillum do exercitation pariatur anim officia aliquip non Lorem ullamco officia.",
+    "started": "Fri Apr 20 1990 06:39:30 GMT-0500 (Eastern Standard Time)",
+    "ended": "Sat Mar 26 1994 13:27:53 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  },
+  {
+    "delayType": "Strike",
+    "delayRemarks": "Deserunt anim dolor consectetur reprehenderit reprehenderit sunt dolore incididunt consectetur.",
+    "started": "Wed Jul 05 1972 01:09:29 GMT-0500 (Eastern Standard Time)",
+    "ended": "Thu Jan 26 1995 15:12:29 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  },
+  {
+    "delayType": "Rain",
+    "delayRemarks": "Ad irure commodo id veniam quis fugiat nisi.",
+    "started": "Thu Feb 23 1984 08:42:59 GMT-0500 (Eastern Standard Time)",
+    "ended": "Sat Aug 31 1974 22:56:10 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  },
+  {
+    "delayType": "Lunch",
+    "delayRemarks": "Et exercitation esse tempor aute.",
+    "started": "Sun Sep 27 2009 14:55:08 GMT-0500 (Eastern Standard Time)",
+    "ended": "Sun Oct 10 1976 07:38:58 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  },
+  {
+    "delayType": "Strike",
+    "delayRemarks": "Incididunt incididunt veniam est velit nulla qui est est velit do laboris veniam.",
+    "started": "Fri Dec 19 1975 19:35:06 GMT-0500 (Eastern Standard Time)",
+    "ended": "Wed Sep 29 1976 04:21:26 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  },
+  {
+    "delayType": "Strike",
+    "delayRemarks": "Irure nulla incididunt pariatur consequat aute ullamco reprehenderit mollit.",
+    "started": "Sat Feb 27 1999 14:17:27 GMT-0500 (Eastern Standard Time)",
+    "ended": "Sat Sep 15 2007 07:21:35 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  },
+  {
+    "delayType": "Strike",
+    "delayRemarks": "Dolore tempor labore elit ullamco officia.",
+    "started": "Sat May 27 1995 20:37:39 GMT-0500 (Eastern Standard Time)",
+    "ended": "Thu Jan 31 1991 06:16:03 GMT-0500 (Eastern Standard Time)",
+    "duration": 5,
+    "auditDetails": "AB 2016-11-24   8:40 a.m."
+  }
+]

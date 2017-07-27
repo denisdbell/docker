@@ -1,0 +1,4692 @@
+[
+  {
+    "index": 0,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-06T12:01:29 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 38,
+    "consignee": "Fulton Ramos",
+    "shipmentNumber": "VG-7992"
+  },
+  {
+    "index": 1,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-14T08:53:33 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 25,
+    "consignee": "Madeleine Gomez",
+    "shipmentNumber": "BS-5356"
+  },
+  {
+    "index": 2,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-23T06:27:27 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 6,
+    "consignee": "Hines Albert",
+    "shipmentNumber": "BS-3360"
+  },
+  {
+    "index": 3,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-22T02:00:06 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 10,
+    "consignee": "Huffman Wise",
+    "shipmentNumber": "RE-4040"
+  },
+  {
+    "index": 4,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-11T09:39:49 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 9,
+    "consignee": "Frazier Foley",
+    "shipmentNumber": "BS-4616"
+  },
+  {
+    "index": 5,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-04-25T07:52:50 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 39,
+    "consignee": "Ines Diaz",
+    "shipmentNumber": "QA-7030"
+  },
+  {
+    "index": 6,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-08-26T12:17:47 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 26,
+    "consignee": "Noel Spears",
+    "shipmentNumber": "QA-3773"
+  },
+  {
+    "index": 7,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-15T11:11:09 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 23,
+    "consignee": "Pierce Leblanc",
+    "shipmentNumber": "RE-1959"
+  },
+  {
+    "index": 8,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-20T12:18:39 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 21,
+    "consignee": "Crosby Petty",
+    "shipmentNumber": "VG-5229"
+  },
+  {
+    "index": 9,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-26T01:47:19 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 42,
+    "consignee": "Short Alvarez",
+    "shipmentNumber": "RE-3659"
+  },
+  {
+    "index": 10,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-07T07:14:07 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 46,
+    "consignee": "Chelsea Holloway",
+    "shipmentNumber": "RE-2776"
+  },
+  {
+    "index": 11,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-23T10:58:12 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 6,
+    "consignee": "Lessie Joseph",
+    "shipmentNumber": "RE-2287"
+  },
+  {
+    "index": 12,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-04T05:52:27 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 31,
+    "consignee": "Stephenson Gray",
+    "shipmentNumber": "VG-9912"
+  },
+  {
+    "index": 13,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-16T06:57:27 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 43,
+    "consignee": "Ortiz Mcclure",
+    "shipmentNumber": "CM-9346"
+  },
+  {
+    "index": 14,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-28T08:25:38 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 12,
+    "consignee": "Knight Castro",
+    "shipmentNumber": "BS-4592"
+  },
+  {
+    "index": 15,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-09-22T11:55:52 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 42,
+    "consignee": "Davenport Dunn",
+    "shipmentNumber": "QA-8322"
+  },
+  {
+    "index": 16,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-10T09:52:49 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 15,
+    "consignee": "Tammi Lynch",
+    "shipmentNumber": "BS-8206"
+  },
+  {
+    "index": 17,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-21T02:46:07 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 18,
+    "consignee": "Daugherty Webb",
+    "shipmentNumber": "CM-4638"
+  },
+  {
+    "index": 18,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-29T12:33:58 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 37,
+    "consignee": "Sandoval York",
+    "shipmentNumber": "CM-8357"
+  },
+  {
+    "index": 19,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-07-28T08:34:57 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 49,
+    "consignee": "Mccarty Chavez",
+    "shipmentNumber": "CM-2966"
+  },
+  {
+    "index": 20,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-15T02:52:45 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 31,
+    "consignee": "Terra Atkinson",
+    "shipmentNumber": "VG-8023"
+  },
+  {
+    "index": 21,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-06-10T09:15:33 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 36,
+    "consignee": "Christine Moody",
+    "shipmentNumber": "RE-2322"
+  },
+  {
+    "index": 22,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-02-18T05:20:11 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 35,
+    "consignee": "Maxwell Martin",
+    "shipmentNumber": "VG-3530"
+  },
+  {
+    "index": 23,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-28T02:46:09 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 8,
+    "consignee": "Lela Walton",
+    "shipmentNumber": "QA-5271"
+  },
+  {
+    "index": 24,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-13T10:09:00 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 13,
+    "consignee": "Elma Clay",
+    "shipmentNumber": "QA-9365"
+  },
+  {
+    "index": 25,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-01T10:50:11 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 14,
+    "consignee": "Liz Franklin",
+    "shipmentNumber": "BS-4467"
+  },
+  {
+    "index": 26,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-05T05:39:46 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 21,
+    "consignee": "Katelyn Donovan",
+    "shipmentNumber": "VG-9383"
+  },
+  {
+    "index": 27,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-16T04:05:34 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 3,
+    "consignee": "Blanche Stevens",
+    "shipmentNumber": "CM-5578"
+  },
+  {
+    "index": 28,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-21T11:33:51 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 28,
+    "consignee": "Felicia Nielsen",
+    "shipmentNumber": "VG-4026"
+  },
+  {
+    "index": 29,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-09T11:49:51 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 7,
+    "consignee": "Pearlie Mcclain",
+    "shipmentNumber": "VG-2823"
+  },
+  {
+    "index": 30,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-22T03:55:19 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 44,
+    "consignee": "Lacy Morton",
+    "shipmentNumber": "QA-4618"
+  },
+  {
+    "index": 31,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-07-25T06:39:52 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 11,
+    "consignee": "Madelyn Kidd",
+    "shipmentNumber": "RE-9071"
+  },
+  {
+    "index": 32,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-11-03T05:39:14 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 19,
+    "consignee": "Sheree Gibson",
+    "shipmentNumber": "CM-2097"
+  },
+  {
+    "index": 33,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-09T12:53:10 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 6,
+    "consignee": "Nunez Soto",
+    "shipmentNumber": "RE-6684"
+  },
+  {
+    "index": 34,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-31T12:33:22 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 45,
+    "consignee": "Bettye Ingram",
+    "shipmentNumber": "VG-6968"
+  },
+  {
+    "index": 35,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-30T02:27:58 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 9,
+    "consignee": "Case Bean",
+    "shipmentNumber": "RE-2244"
+  },
+  {
+    "index": 36,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-04T05:19:40 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 16,
+    "consignee": "Nichols Hampton",
+    "shipmentNumber": "RE-5493"
+  },
+  {
+    "index": 37,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-11-27T02:12:34 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 6,
+    "consignee": "Rae Burch",
+    "shipmentNumber": "VG-5283"
+  },
+  {
+    "index": 38,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-07-04T10:23:18 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 29,
+    "consignee": "Morse Erickson",
+    "shipmentNumber": "QA-8426"
+  },
+  {
+    "index": 39,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-01T08:31:44 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 29,
+    "consignee": "Witt Meyer",
+    "shipmentNumber": "BS-8924"
+  },
+  {
+    "index": 40,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-13T07:49:40 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 23,
+    "consignee": "Sargent Davenport",
+    "shipmentNumber": "CM-2915"
+  },
+  {
+    "index": 41,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-07-03T11:02:47 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 45,
+    "consignee": "Cassandra Kerr",
+    "shipmentNumber": "VG-7684"
+  },
+  {
+    "index": 42,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-11T09:25:52 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 45,
+    "consignee": "Agnes Montgomery",
+    "shipmentNumber": "CM-2875"
+  },
+  {
+    "index": 43,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-24T06:00:30 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 18,
+    "consignee": "Jackson Richards",
+    "shipmentNumber": "RE-6981"
+  },
+  {
+    "index": 44,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-15T05:11:05 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 22,
+    "consignee": "Garner Higgins",
+    "shipmentNumber": "RE-4052"
+  },
+  {
+    "index": 45,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-10-18T10:12:35 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 40,
+    "consignee": "Louisa Yang",
+    "shipmentNumber": "BS-6032"
+  },
+  {
+    "index": 46,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-03-30T04:54:54 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 34,
+    "consignee": "Lorraine Solis",
+    "shipmentNumber": "BS-6316"
+  },
+  {
+    "index": 47,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-02T05:31:54 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 2,
+    "consignee": "Sandra Gardner",
+    "shipmentNumber": "QA-5393"
+  },
+  {
+    "index": 48,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-31T10:09:15 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 31,
+    "consignee": "Caroline Fisher",
+    "shipmentNumber": "RE-8045"
+  },
+  {
+    "index": 49,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-12T12:51:16 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 13,
+    "consignee": "Cristina Mayer",
+    "shipmentNumber": "BS-3873"
+  },
+  {
+    "index": 50,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-04-23T01:33:45 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 40,
+    "consignee": "Burke Taylor",
+    "shipmentNumber": "CM-4157"
+  },
+  {
+    "index": 51,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-31T02:03:22 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 42,
+    "consignee": "Lottie Acevedo",
+    "shipmentNumber": "CM-4871"
+  },
+  {
+    "index": 52,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-07T10:40:02 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 37,
+    "consignee": "Rodgers Dean",
+    "shipmentNumber": "RE-7282"
+  },
+  {
+    "index": 53,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-11-01T04:50:33 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Black Sails",
+    "quantityInInventory": 20,
+    "consignee": "Anderson Rodriquez",
+    "shipmentNumber": "RE-6582"
+  },
+  {
+    "index": 54,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-07-26T03:19:54 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 45,
+    "consignee": "Glenna Jacobs",
+    "shipmentNumber": "BS-8085"
+  },
+  {
+    "index": 55,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-04-28T05:16:27 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 22,
+    "consignee": "Pollard Guy",
+    "shipmentNumber": "BS-9413"
+  },
+  {
+    "index": 56,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-10-21T03:43:49 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 5,
+    "consignee": "Bird Parks",
+    "shipmentNumber": "RE-5253"
+  },
+  {
+    "index": 57,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-07-16T08:09:36 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 7,
+    "consignee": "Pauline Brown",
+    "shipmentNumber": "QA-4714"
+  },
+  {
+    "index": 58,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-04T09:25:00 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 19,
+    "consignee": "Joann Osborne",
+    "shipmentNumber": "VG-9704"
+  },
+  {
+    "index": 59,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-16T06:27:11 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 21,
+    "consignee": "Fitzgerald Dickson",
+    "shipmentNumber": "BS-3153"
+  },
+  {
+    "index": 60,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-09-10T08:24:18 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 20,
+    "consignee": "Clara Hinton",
+    "shipmentNumber": "QA-2496"
+  },
+  {
+    "index": 61,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-06-25T05:35:34 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 22,
+    "consignee": "Cecelia Shepherd",
+    "shipmentNumber": "QA-4407"
+  },
+  {
+    "index": 62,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-06-17T06:17:46 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 42,
+    "consignee": "Shepherd Craft",
+    "shipmentNumber": "BS-3082"
+  },
+  {
+    "index": 63,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-07-24T05:27:35 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Black Sails",
+    "quantityInInventory": 39,
+    "consignee": "Bell George",
+    "shipmentNumber": "BS-5060"
+  },
+  {
+    "index": 64,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-11T05:13:47 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 10,
+    "consignee": "Rowland Strickland",
+    "shipmentNumber": "BS-7636"
+  },
+  {
+    "index": 65,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-26T03:27:01 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 2,
+    "consignee": "Benton Stuart",
+    "shipmentNumber": "CM-8138"
+  },
+  {
+    "index": 66,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-27T12:28:14 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 6,
+    "consignee": "Chris Coffey",
+    "shipmentNumber": "RE-2740"
+  },
+  {
+    "index": 67,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-11T10:21:23 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 19,
+    "consignee": "Whitney Wilcox",
+    "shipmentNumber": "QA-6418"
+  },
+  {
+    "index": 68,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-07T02:32:46 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 39,
+    "consignee": "Lavonne Collier",
+    "shipmentNumber": "BS-9078"
+  },
+  {
+    "index": 69,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-18T03:27:20 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 6,
+    "consignee": "Sanchez Phelps",
+    "shipmentNumber": "RE-1942"
+  },
+  {
+    "index": 70,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-11-05T10:39:35 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 46,
+    "consignee": "Church Brock",
+    "shipmentNumber": "QA-4630"
+  },
+  {
+    "index": 71,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-30T07:40:28 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Black Sails",
+    "quantityInInventory": 28,
+    "consignee": "Burnett Vargas",
+    "shipmentNumber": "CM-9364"
+  },
+  {
+    "index": 72,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-25T02:58:31 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Black Sails",
+    "quantityInInventory": 41,
+    "consignee": "Donaldson Haney",
+    "shipmentNumber": "CM-2800"
+  },
+  {
+    "index": 73,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-28T11:19:49 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 36,
+    "consignee": "Henderson Mclean",
+    "shipmentNumber": "QA-6782"
+  },
+  {
+    "index": 74,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-03T03:05:04 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 43,
+    "consignee": "Carrillo Edwards",
+    "shipmentNumber": "VG-6445"
+  },
+  {
+    "index": 75,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-11-14T03:11:28 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 41,
+    "consignee": "Hahn Jenkins",
+    "shipmentNumber": "RE-2886"
+  },
+  {
+    "index": 76,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-11-21T05:16:15 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 15,
+    "consignee": "Sutton Pope",
+    "shipmentNumber": "RE-4405"
+  },
+  {
+    "index": 77,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-20T07:01:18 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 16,
+    "consignee": "Solis Schultz",
+    "shipmentNumber": "VG-2796"
+  },
+  {
+    "index": 78,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-04-26T06:20:23 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 26,
+    "consignee": "Jeanie Porter",
+    "shipmentNumber": "BS-6662"
+  },
+  {
+    "index": 79,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-02T01:07:00 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 30,
+    "consignee": "Rosie Benton",
+    "shipmentNumber": "RE-5037"
+  },
+  {
+    "index": 80,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-09T08:56:35 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 24,
+    "consignee": "Gaines Vang",
+    "shipmentNumber": "VG-3122"
+  },
+  {
+    "index": 81,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-11-12T02:01:06 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 36,
+    "consignee": "Benita Maynard",
+    "shipmentNumber": "CM-3744"
+  },
+  {
+    "index": 82,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-08-03T03:07:21 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 9,
+    "consignee": "Earline Cooper",
+    "shipmentNumber": "QA-2314"
+  },
+  {
+    "index": 83,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-24T09:03:24 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 13,
+    "consignee": "Delacruz Mcmahon",
+    "shipmentNumber": "BS-9426"
+  },
+  {
+    "index": 84,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-24T03:15:13 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 44,
+    "consignee": "Ila Castillo",
+    "shipmentNumber": "QA-8668"
+  },
+  {
+    "index": 85,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-07-25T04:11:29 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 21,
+    "consignee": "Wendy Lott",
+    "shipmentNumber": "CM-9483"
+  },
+  {
+    "index": 86,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-04-25T07:15:02 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 10,
+    "consignee": "Leanna Roth",
+    "shipmentNumber": "BS-9248"
+  },
+  {
+    "index": 87,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-17T12:00:11 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 11,
+    "consignee": "Estelle Valenzuela",
+    "shipmentNumber": "VG-4072"
+  },
+  {
+    "index": 88,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-03T12:06:41 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 31,
+    "consignee": "Summers Snider",
+    "shipmentNumber": "RE-3262"
+  },
+  {
+    "index": 89,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-07-24T04:48:26 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 11,
+    "consignee": "Mattie Buck",
+    "shipmentNumber": "VG-5654"
+  },
+  {
+    "index": 90,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-24T01:26:53 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 36,
+    "consignee": "Workman Durham",
+    "shipmentNumber": "CM-5980"
+  },
+  {
+    "index": 91,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-29T06:35:11 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 15,
+    "consignee": "Lilian Orr",
+    "shipmentNumber": "BS-3104"
+  },
+  {
+    "index": 92,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-07T10:44:17 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 44,
+    "consignee": "Kathie Miranda",
+    "shipmentNumber": "RE-9688"
+  },
+  {
+    "index": 93,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-11T09:17:42 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 24,
+    "consignee": "Mcmahon Bond",
+    "shipmentNumber": "RE-7197"
+  },
+  {
+    "index": 94,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-07-04T06:24:23 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 19,
+    "consignee": "Noemi Sellers",
+    "shipmentNumber": "VG-3937"
+  },
+  {
+    "index": 95,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-11-30T11:21:30 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 44,
+    "consignee": "Mable Sutton",
+    "shipmentNumber": "RE-9157"
+  },
+  {
+    "index": 96,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-04-16T04:58:45 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 12,
+    "consignee": "Juana Alexander",
+    "shipmentNumber": "CM-6997"
+  },
+  {
+    "index": 97,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-21T08:35:59 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 6,
+    "consignee": "Sherry Reyes",
+    "shipmentNumber": "CM-8129"
+  },
+  {
+    "index": 98,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-06-15T11:16:21 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 9,
+    "consignee": "Brenda Rhodes",
+    "shipmentNumber": "QA-6743"
+  },
+  {
+    "index": 99,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-05-28T03:33:08 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 23,
+    "consignee": "Larson Perez",
+    "shipmentNumber": "CM-7686"
+  },
+  {
+    "index": 100,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-24T06:22:56 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 6,
+    "consignee": "Stout Hartman",
+    "shipmentNumber": "RE-3829"
+  },
+  {
+    "index": 101,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-11T10:57:22 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 11,
+    "consignee": "Rachel Buckley",
+    "shipmentNumber": "VG-3058"
+  },
+  {
+    "index": 102,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-16T04:46:17 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 28,
+    "consignee": "Roman Gallagher",
+    "shipmentNumber": "QA-6944"
+  },
+  {
+    "index": 103,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-13T07:12:37 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 12,
+    "consignee": "Page Rodriguez",
+    "shipmentNumber": "QA-4034"
+  },
+  {
+    "index": 104,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-29T01:09:20 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 19,
+    "consignee": "Ella Mccall",
+    "shipmentNumber": "RE-7599"
+  },
+  {
+    "index": 105,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-31T08:14:33 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 20,
+    "consignee": "Cora Cline",
+    "shipmentNumber": "RE-4135"
+  },
+  {
+    "index": 106,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-08-24T10:30:52 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 46,
+    "consignee": "Dickson Osborn",
+    "shipmentNumber": "QA-7393"
+  },
+  {
+    "index": 107,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-10-11T05:35:56 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 40,
+    "consignee": "Norris Warren",
+    "shipmentNumber": "CM-3630"
+  },
+  {
+    "index": 108,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-05-05T04:18:41 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 4,
+    "consignee": "Lupe Hensley",
+    "shipmentNumber": "RE-7238"
+  },
+  {
+    "index": 109,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-11-16T05:25:39 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 29,
+    "consignee": "Hodge Blanchard",
+    "shipmentNumber": "QA-3884"
+  },
+  {
+    "index": 110,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-23T10:09:27 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 30,
+    "consignee": "Mayo Stout",
+    "shipmentNumber": "BS-2097"
+  },
+  {
+    "index": 111,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-06-17T07:29:43 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 45,
+    "consignee": "Angelia Munoz",
+    "shipmentNumber": "RE-2947"
+  },
+  {
+    "index": 112,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-10-04T04:31:15 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 39,
+    "consignee": "Franks Winters",
+    "shipmentNumber": "VG-8074"
+  },
+  {
+    "index": 113,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-12T11:43:22 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 38,
+    "consignee": "Janis Bullock",
+    "shipmentNumber": "BS-3841"
+  },
+  {
+    "index": 114,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-09T09:53:02 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 25,
+    "consignee": "Gibbs Sawyer",
+    "shipmentNumber": "QA-6341"
+  },
+  {
+    "index": 115,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-08T07:14:34 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 29,
+    "consignee": "Genevieve Harper",
+    "shipmentNumber": "RE-6533"
+  },
+  {
+    "index": 116,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-07-06T12:20:59 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 23,
+    "consignee": "Evangelina Lowery",
+    "shipmentNumber": "QA-1440"
+  },
+  {
+    "index": 117,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-07T06:42:36 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 26,
+    "consignee": "Gomez Stone",
+    "shipmentNumber": "VG-2903"
+  },
+  {
+    "index": 118,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-04-30T10:24:22 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 23,
+    "consignee": "Rachael Fleming",
+    "shipmentNumber": "BS-6981"
+  },
+  {
+    "index": 119,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-28T09:08:12 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 3,
+    "consignee": "Manuela Grimes",
+    "shipmentNumber": "QA-9888"
+  },
+  {
+    "index": 120,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-21T01:16:41 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 8,
+    "consignee": "Michael Ellis",
+    "shipmentNumber": "QA-1072"
+  },
+  {
+    "index": 121,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-21T05:39:34 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 15,
+    "consignee": "Dawson Poole",
+    "shipmentNumber": "RE-1602"
+  },
+  {
+    "index": 122,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-11-01T10:28:45 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 20,
+    "consignee": "Marylou Kennedy",
+    "shipmentNumber": "CM-4639"
+  },
+  {
+    "index": 123,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-06-13T06:18:40 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 19,
+    "consignee": "Turner Blackwell",
+    "shipmentNumber": "CM-3378"
+  },
+  {
+    "index": 124,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-24T08:44:13 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 7,
+    "consignee": "Peck Boyd",
+    "shipmentNumber": "RE-5470"
+  },
+  {
+    "index": 125,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-02T09:11:54 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 19,
+    "consignee": "Gonzalez Gamble",
+    "shipmentNumber": "BS-1829"
+  },
+  {
+    "index": 126,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-11-12T10:38:19 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 41,
+    "consignee": "Iris Good",
+    "shipmentNumber": "RE-8126"
+  },
+  {
+    "index": 127,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-07-02T08:18:35 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 3,
+    "consignee": "Clements Cameron",
+    "shipmentNumber": "BS-7615"
+  },
+  {
+    "index": 128,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-28T05:13:08 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 32,
+    "consignee": "Nicole Velasquez",
+    "shipmentNumber": "VG-4353"
+  },
+  {
+    "index": 129,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-28T06:31:00 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 20,
+    "consignee": "Aisha Burton",
+    "shipmentNumber": "RE-4768"
+  },
+  {
+    "index": 130,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-02-04T12:05:11 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 50,
+    "consignee": "Ericka Roy",
+    "shipmentNumber": "VG-3108"
+  },
+  {
+    "index": 131,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-28T02:25:28 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 10,
+    "consignee": "Audrey Richardson",
+    "shipmentNumber": "BS-2822"
+  },
+  {
+    "index": 132,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-06-08T03:59:27 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 15,
+    "consignee": "Meghan Fuentes",
+    "shipmentNumber": "VG-2535"
+  },
+  {
+    "index": 133,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-13T11:49:17 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 18,
+    "consignee": "Charmaine Ross",
+    "shipmentNumber": "RE-6735"
+  },
+  {
+    "index": 134,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-03-08T02:20:01 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 48,
+    "consignee": "Marjorie Daniel",
+    "shipmentNumber": "CM-1920"
+  },
+  {
+    "index": 135,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-16T01:25:46 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 12,
+    "consignee": "Augusta Ashley",
+    "shipmentNumber": "RE-5868"
+  },
+  {
+    "index": 136,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-11-18T09:06:06 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 18,
+    "consignee": "Ferguson Slater",
+    "shipmentNumber": "VG-3477"
+  },
+  {
+    "index": 137,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-13T12:53:09 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 19,
+    "consignee": "Tania Leach",
+    "shipmentNumber": "VG-8710"
+  },
+  {
+    "index": 138,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-08-25T07:49:45 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 40,
+    "consignee": "Kirby Schwartz",
+    "shipmentNumber": "QA-8021"
+  },
+  {
+    "index": 139,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-15T10:21:37 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 38,
+    "consignee": "Eula Nichols",
+    "shipmentNumber": "CM-3845"
+  },
+  {
+    "index": 140,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-06T11:22:46 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 8,
+    "consignee": "Blake Allison",
+    "shipmentNumber": "BS-4587"
+  },
+  {
+    "index": 141,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-03-17T07:29:39 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 19,
+    "consignee": "Delgado Harrell",
+    "shipmentNumber": "RE-3961"
+  },
+  {
+    "index": 142,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-26T11:47:53 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 34,
+    "consignee": "Maura Reese",
+    "shipmentNumber": "CM-2689"
+  },
+  {
+    "index": 143,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-10T10:36:17 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 45,
+    "consignee": "Patricia Morgan",
+    "shipmentNumber": "QA-7857"
+  },
+  {
+    "index": 144,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-23T10:14:43 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 46,
+    "consignee": "Robin Rodgers",
+    "shipmentNumber": "QA-1528"
+  },
+  {
+    "index": 145,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-06T12:10:40 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 25,
+    "consignee": "Rowena Johns",
+    "shipmentNumber": "RE-9226"
+  },
+  {
+    "index": 146,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-18T08:02:23 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 23,
+    "consignee": "Dunlap Moon",
+    "shipmentNumber": "VG-3033"
+  },
+  {
+    "index": 147,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-03-02T03:54:15 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 30,
+    "consignee": "Susanne Peters",
+    "shipmentNumber": "VG-7775"
+  },
+  {
+    "index": 148,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-03T07:43:38 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 46,
+    "consignee": "Polly Branch",
+    "shipmentNumber": "CM-5734"
+  },
+  {
+    "index": 149,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-07-30T05:28:26 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 28,
+    "consignee": "Bridget Hardy",
+    "shipmentNumber": "BS-8481"
+  },
+  {
+    "index": 150,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-11-30T08:12:32 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 13,
+    "consignee": "Orr Gay",
+    "shipmentNumber": "QA-4451"
+  },
+  {
+    "index": 151,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-07T07:07:14 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 30,
+    "consignee": "Kristina Wade",
+    "shipmentNumber": "VG-2909"
+  },
+  {
+    "index": 152,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-29T03:02:45 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 29,
+    "consignee": "Linda Elliott",
+    "shipmentNumber": "BS-9188"
+  },
+  {
+    "index": 153,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-01-25T09:11:29 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 23,
+    "consignee": "Wallace Newton",
+    "shipmentNumber": "VG-3629"
+  },
+  {
+    "index": 154,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-07-21T06:41:40 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 31,
+    "consignee": "Barlow Dudley",
+    "shipmentNumber": "BS-6498"
+  },
+  {
+    "index": 155,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-08-26T06:34:00 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 50,
+    "consignee": "Bobbi Sharpe",
+    "shipmentNumber": "CM-5525"
+  },
+  {
+    "index": 156,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-15T02:48:40 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 39,
+    "consignee": "Hunt Mills",
+    "shipmentNumber": "BS-7469"
+  },
+  {
+    "index": 157,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-03-11T03:39:59 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 44,
+    "consignee": "Fuller Mathews",
+    "shipmentNumber": "BS-5259"
+  },
+  {
+    "index": 158,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-11T02:25:20 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 20,
+    "consignee": "Gentry Salazar",
+    "shipmentNumber": "BS-5986"
+  },
+  {
+    "index": 159,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-05T01:19:17 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 48,
+    "consignee": "Ramona Casey",
+    "shipmentNumber": "CM-3089"
+  },
+  {
+    "index": 160,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-10T08:32:04 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 21,
+    "consignee": "Saundra Weeks",
+    "shipmentNumber": "CM-1827"
+  },
+  {
+    "index": 161,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-04-07T05:46:38 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 40,
+    "consignee": "Saunders Copeland",
+    "shipmentNumber": "BS-8463"
+  },
+  {
+    "index": 162,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-18T11:12:17 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 15,
+    "consignee": "Velazquez Cook",
+    "shipmentNumber": "RE-4150"
+  },
+  {
+    "index": 163,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-13T12:08:01 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Black Sails",
+    "quantityInInventory": 43,
+    "consignee": "Burton Mckay",
+    "shipmentNumber": "VG-9557"
+  },
+  {
+    "index": 164,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-03T07:35:32 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Dauntless",
+    "quantityInInventory": 45,
+    "consignee": "Walker Nelson",
+    "shipmentNumber": "QA-2598"
+  },
+  {
+    "index": 165,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-11-01T05:12:17 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 4,
+    "consignee": "Margery Clements",
+    "shipmentNumber": "QA-3342"
+  },
+  {
+    "index": 166,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-27T06:24:08 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 23,
+    "consignee": "Goff Carpenter",
+    "shipmentNumber": "QA-2795"
+  },
+  {
+    "index": 167,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-01T08:27:29 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 38,
+    "consignee": "Moses Mccray",
+    "shipmentNumber": "VG-6670"
+  },
+  {
+    "index": 168,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-03T04:00:19 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 10,
+    "consignee": "Sweeney Carrillo",
+    "shipmentNumber": "VG-2333"
+  },
+  {
+    "index": 169,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-03-08T12:19:46 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 5,
+    "consignee": "Byers Pacheco",
+    "shipmentNumber": "BS-4610"
+  },
+  {
+    "index": 170,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-07-29T06:55:41 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 7,
+    "consignee": "Ophelia Mckenzie",
+    "shipmentNumber": "QA-4072"
+  },
+  {
+    "index": 171,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-07-19T10:23:51 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 48,
+    "consignee": "Ada Ayala",
+    "shipmentNumber": "CM-7940"
+  },
+  {
+    "index": 172,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-05-14T05:17:19 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 35,
+    "consignee": "Blanchard Hood",
+    "shipmentNumber": "RE-9316"
+  },
+  {
+    "index": 173,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-24T08:56:35 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Dauntless",
+    "quantityInInventory": 39,
+    "consignee": "Marianne Solomon",
+    "shipmentNumber": "CM-2152"
+  },
+  {
+    "index": 174,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-02-16T01:37:18 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 25,
+    "consignee": "Estrada Barker",
+    "shipmentNumber": "QA-8059"
+  },
+  {
+    "index": 175,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-18T02:43:14 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Black Sails",
+    "quantityInInventory": 20,
+    "consignee": "Melendez Davidson",
+    "shipmentNumber": "QA-1948"
+  },
+  {
+    "index": 176,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-21T05:40:21 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 38,
+    "consignee": "Tanner Keith",
+    "shipmentNumber": "VG-8163"
+  },
+  {
+    "index": 177,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-12T08:26:54 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 23,
+    "consignee": "Nelson Crane",
+    "shipmentNumber": "BS-3358"
+  },
+  {
+    "index": 178,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-18T12:26:08 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 17,
+    "consignee": "Wheeler Thomas",
+    "shipmentNumber": "CM-1441"
+  },
+  {
+    "index": 179,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-01T02:42:09 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 23,
+    "consignee": "Rose Kirk",
+    "shipmentNumber": "RE-2485"
+  },
+  {
+    "index": 180,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-06-04T08:18:26 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 7,
+    "consignee": "Bauer Mason",
+    "shipmentNumber": "CM-3645"
+  },
+  {
+    "index": 181,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-11-22T11:24:36 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 19,
+    "consignee": "Myrna Villarreal",
+    "shipmentNumber": "BS-1927"
+  },
+  {
+    "index": 182,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-11-14T03:00:54 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 41,
+    "consignee": "Moon Palmer",
+    "shipmentNumber": "RE-9061"
+  },
+  {
+    "index": 183,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-11-15T05:43:10 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 21,
+    "consignee": "Miriam Sparks",
+    "shipmentNumber": "VG-8357"
+  },
+  {
+    "index": 184,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-23T06:44:09 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 3,
+    "consignee": "Dejesus Mckinney",
+    "shipmentNumber": "QA-5757"
+  },
+  {
+    "index": 185,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-10-10T02:33:19 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 39,
+    "consignee": "Wolfe Cleveland",
+    "shipmentNumber": "CM-4495"
+  },
+  {
+    "index": 186,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-24T10:28:59 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 4,
+    "consignee": "Lila Leonard",
+    "shipmentNumber": "VG-2266"
+  },
+  {
+    "index": 187,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-08-12T04:28:00 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 45,
+    "consignee": "Araceli Griffith",
+    "shipmentNumber": "CM-7713"
+  },
+  {
+    "index": 188,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-05-31T06:31:55 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 38,
+    "consignee": "Gillespie Patton",
+    "shipmentNumber": "QA-1801"
+  },
+  {
+    "index": 189,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-31T06:10:25 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 25,
+    "consignee": "Elvia Goodman",
+    "shipmentNumber": "QA-8532"
+  },
+  {
+    "index": 190,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-02-28T03:52:56 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Black Sails",
+    "quantityInInventory": 27,
+    "consignee": "Cornelia Bowers",
+    "shipmentNumber": "VG-2668"
+  },
+  {
+    "index": 191,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-22T03:32:54 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 10,
+    "consignee": "Thornton Molina",
+    "shipmentNumber": "CM-1889"
+  },
+  {
+    "index": 192,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-07-06T06:23:17 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 40,
+    "consignee": "Sheryl Walter",
+    "shipmentNumber": "QA-4860"
+  },
+  {
+    "index": 193,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-09T03:15:40 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 12,
+    "consignee": "Isabelle Wells",
+    "shipmentNumber": "QA-4342"
+  },
+  {
+    "index": 194,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-17T11:02:49 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 29,
+    "consignee": "Selma Valdez",
+    "shipmentNumber": "QA-2293"
+  },
+  {
+    "index": 195,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-13T08:45:53 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 5,
+    "consignee": "Chan Burke",
+    "shipmentNumber": "VG-9086"
+  },
+  {
+    "index": 196,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-15T01:01:38 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 38,
+    "consignee": "Aguilar Workman",
+    "shipmentNumber": "VG-8893"
+  },
+  {
+    "index": 197,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-10-10T03:07:01 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Black Sails",
+    "quantityInInventory": 14,
+    "consignee": "Pena Shaffer",
+    "shipmentNumber": "QA-8748"
+  },
+  {
+    "index": 198,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-19T10:01:51 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 38,
+    "consignee": "Adrienne Cardenas",
+    "shipmentNumber": "QA-8797"
+  },
+  {
+    "index": 199,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-06T01:47:59 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 25,
+    "consignee": "Weber Mcknight",
+    "shipmentNumber": "VG-2216"
+  },
+  {
+    "index": 200,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-04T07:36:56 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 36,
+    "consignee": "Malone Giles",
+    "shipmentNumber": "VG-7913"
+  },
+  {
+    "index": 201,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-09T08:35:58 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 4,
+    "consignee": "Tia Foster",
+    "shipmentNumber": "RE-6514"
+  },
+  {
+    "index": 202,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-04-17T05:41:28 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 3,
+    "consignee": "Walsh Foreman",
+    "shipmentNumber": "RE-3713"
+  },
+  {
+    "index": 203,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-06-03T11:53:08 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 29,
+    "consignee": "Coleen Sharp",
+    "shipmentNumber": "RE-3610"
+  },
+  {
+    "index": 204,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-04-08T11:32:08 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 17,
+    "consignee": "Mccoy Mclaughlin",
+    "shipmentNumber": "CM-4167"
+  },
+  {
+    "index": 205,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-07-23T12:39:34 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 48,
+    "consignee": "Joseph Miller",
+    "shipmentNumber": "QA-7882"
+  },
+  {
+    "index": 206,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-08-10T08:00:59 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Black Sails",
+    "quantityInInventory": 2,
+    "consignee": "Gamble Vaughn",
+    "shipmentNumber": "BS-4615"
+  },
+  {
+    "index": 207,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-03T09:15:09 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 37,
+    "consignee": "Faith Larson",
+    "shipmentNumber": "CM-5637"
+  },
+  {
+    "index": 208,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-02T03:03:07 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 33,
+    "consignee": "Gertrude Christian",
+    "shipmentNumber": "VG-9465"
+  },
+  {
+    "index": 209,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-01T11:43:27 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 29,
+    "consignee": "Martina Carr",
+    "shipmentNumber": "RE-9129"
+  },
+  {
+    "index": 210,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-07-03T12:33:57 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 6,
+    "consignee": "Garrett Robbins",
+    "shipmentNumber": "QA-9799"
+  },
+  {
+    "index": 211,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-03-28T01:22:34 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 18,
+    "consignee": "Maude Walters",
+    "shipmentNumber": "QA-1347"
+  },
+  {
+    "index": 212,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-07-03T02:00:07 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 8,
+    "consignee": "Booth Berry",
+    "shipmentNumber": "CM-9638"
+  },
+  {
+    "index": 213,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-02-24T01:27:37 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 30,
+    "consignee": "Hazel Langley",
+    "shipmentNumber": "RE-1701"
+  },
+  {
+    "index": 214,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-04T06:40:56 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 44,
+    "consignee": "Melton Dodson",
+    "shipmentNumber": "CM-6271"
+  },
+  {
+    "index": 215,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-05-31T12:06:24 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 49,
+    "consignee": "Johnston Thompson",
+    "shipmentNumber": "RE-5106"
+  },
+  {
+    "index": 216,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-05-27T02:53:15 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 4,
+    "consignee": "Marsha Oconnor",
+    "shipmentNumber": "VG-8556"
+  },
+  {
+    "index": 217,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-06T03:47:18 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 28,
+    "consignee": "Lorna Hines",
+    "shipmentNumber": "VG-7375"
+  },
+  {
+    "index": 218,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-22T06:27:23 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 14,
+    "consignee": "Rhea Tucker",
+    "shipmentNumber": "VG-1012"
+  },
+  {
+    "index": 219,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-05T03:22:40 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 50,
+    "consignee": "Janell Guzman",
+    "shipmentNumber": "BS-9584"
+  },
+  {
+    "index": 220,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-21T01:55:44 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 33,
+    "consignee": "Mcclain Moss",
+    "shipmentNumber": "QA-7277"
+  },
+  {
+    "index": 221,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-20T01:15:32 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 14,
+    "consignee": "Kramer Drake",
+    "shipmentNumber": "RE-4165"
+  },
+  {
+    "index": 222,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-10-19T08:42:20 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 18,
+    "consignee": "Dawn Frye",
+    "shipmentNumber": "RE-4604"
+  },
+  {
+    "index": 223,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-30T08:35:34 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 3,
+    "consignee": "Yesenia Franco",
+    "shipmentNumber": "BS-8678"
+  },
+  {
+    "index": 224,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-30T04:56:52 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 46,
+    "consignee": "Bianca Levy",
+    "shipmentNumber": "VG-1143"
+  },
+  {
+    "index": 225,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-08T04:40:25 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 15,
+    "consignee": "Flynn Henson",
+    "shipmentNumber": "CM-8315"
+  },
+  {
+    "index": 226,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-04T04:36:31 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 18,
+    "consignee": "Olsen Mack",
+    "shipmentNumber": "RE-1560"
+  },
+  {
+    "index": 227,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-05T12:29:49 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 43,
+    "consignee": "Colette Chan",
+    "shipmentNumber": "VG-5337"
+  },
+  {
+    "index": 228,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-07-04T07:56:46 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 36,
+    "consignee": "Angeline Norman",
+    "shipmentNumber": "RE-2269"
+  },
+  {
+    "index": 229,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-19T05:03:53 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 21,
+    "consignee": "Marie Haley",
+    "shipmentNumber": "CM-7450"
+  },
+  {
+    "index": 230,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-07-22T05:05:10 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 42,
+    "consignee": "Doyle Gibbs",
+    "shipmentNumber": "RE-8946"
+  },
+  {
+    "index": 231,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-27T02:45:43 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 7,
+    "consignee": "Maddox Shaw",
+    "shipmentNumber": "BS-7188"
+  },
+  {
+    "index": 232,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-06-12T08:17:59 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 16,
+    "consignee": "Oneil Huffman",
+    "shipmentNumber": "VG-5774"
+  },
+  {
+    "index": 233,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-03T08:00:20 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 40,
+    "consignee": "Carey Odom",
+    "shipmentNumber": "RE-1867"
+  },
+  {
+    "index": 234,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-01T06:11:15 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 34,
+    "consignee": "Jeannie Harding",
+    "shipmentNumber": "CM-7553"
+  },
+  {
+    "index": 235,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-07T10:13:16 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 38,
+    "consignee": "Curry Shelton",
+    "shipmentNumber": "BS-7584"
+  },
+  {
+    "index": 236,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-03T06:49:05 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 17,
+    "consignee": "Jolene Knapp",
+    "shipmentNumber": "RE-5176"
+  },
+  {
+    "index": 237,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-07-16T10:06:49 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 41,
+    "consignee": "Corrine Clarke",
+    "shipmentNumber": "BS-2313"
+  },
+  {
+    "index": 238,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-29T09:33:03 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 2,
+    "consignee": "Sonja Tyler",
+    "shipmentNumber": "BS-8125"
+  },
+  {
+    "index": 239,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-05-10T05:01:51 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 7,
+    "consignee": "Terrie Kirby",
+    "shipmentNumber": "RE-5804"
+  },
+  {
+    "index": 240,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-07-24T01:13:43 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 24,
+    "consignee": "Kris Brooks",
+    "shipmentNumber": "VG-8227"
+  },
+  {
+    "index": 241,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-25T12:43:15 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 5,
+    "consignee": "Perry Hughes",
+    "shipmentNumber": "RE-2045"
+  },
+  {
+    "index": 242,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-05-24T09:39:41 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 41,
+    "consignee": "Keller Olson",
+    "shipmentNumber": "QA-8378"
+  },
+  {
+    "index": 243,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-08-06T02:01:50 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 16,
+    "consignee": "Langley Dominguez",
+    "shipmentNumber": "VG-5629"
+  },
+  {
+    "index": 244,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-29T12:45:24 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 21,
+    "consignee": "Etta Brewer",
+    "shipmentNumber": "QA-7655"
+  },
+  {
+    "index": 245,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-17T02:28:29 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 41,
+    "consignee": "Sharp Padilla",
+    "shipmentNumber": "CM-7707"
+  },
+  {
+    "index": 246,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-15T07:40:32 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 19,
+    "consignee": "Yvonne Alston",
+    "shipmentNumber": "CM-4272"
+  },
+  {
+    "index": 247,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-11-14T11:24:01 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 33,
+    "consignee": "Rhodes Randolph",
+    "shipmentNumber": "VG-7325"
+  },
+  {
+    "index": 248,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-09T08:44:50 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 3,
+    "consignee": "Nettie Hunt",
+    "shipmentNumber": "RE-7734"
+  },
+  {
+    "index": 249,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-04-02T12:53:32 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 12,
+    "consignee": "Mindy Delgado",
+    "shipmentNumber": "RE-6709"
+  },
+  {
+    "index": 250,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-08T06:43:24 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 17,
+    "consignee": "Arnold Stephenson",
+    "shipmentNumber": "QA-3816"
+  },
+  {
+    "index": 251,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-12-01T03:16:45 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 19,
+    "consignee": "Lula Nash",
+    "shipmentNumber": "RE-7044"
+  },
+  {
+    "index": 252,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-24T06:34:29 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 5,
+    "consignee": "Pate Glenn",
+    "shipmentNumber": "RE-4620"
+  },
+  {
+    "index": 253,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-28T12:41:17 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 28,
+    "consignee": "Georgia Mcconnell",
+    "shipmentNumber": "CM-7671"
+  },
+  {
+    "index": 254,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-29T06:37:39 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 32,
+    "consignee": "Ruiz Marks",
+    "shipmentNumber": "RE-4067"
+  },
+  {
+    "index": 255,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-28T04:38:24 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 33,
+    "consignee": "Small Dunlap",
+    "shipmentNumber": "CM-4348"
+  },
+  {
+    "index": 256,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-28T05:39:47 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 43,
+    "consignee": "Eunice Case",
+    "shipmentNumber": "BS-7897"
+  },
+  {
+    "index": 257,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-15T12:31:03 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 17,
+    "consignee": "Anna Sampson",
+    "shipmentNumber": "QA-9436"
+  },
+  {
+    "index": 258,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-16T06:01:25 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 41,
+    "consignee": "Gross Lee",
+    "shipmentNumber": "RE-8839"
+  },
+  {
+    "index": 259,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-06T08:12:04 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 47,
+    "consignee": "Susana Hubbard",
+    "shipmentNumber": "RE-6135"
+  },
+  {
+    "index": 260,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-11T07:00:01 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 20,
+    "consignee": "Holder Bernard",
+    "shipmentNumber": "BS-6336"
+  },
+  {
+    "index": 261,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-27T08:14:42 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 7,
+    "consignee": "Allison Holman",
+    "shipmentNumber": "VG-4743"
+  },
+  {
+    "index": 262,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-03-06T11:38:14 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 40,
+    "consignee": "Cleveland Jensen",
+    "shipmentNumber": "CM-7470"
+  },
+  {
+    "index": 263,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-03-09T07:17:12 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 8,
+    "consignee": "Lynch Mcintyre",
+    "shipmentNumber": "VG-8504"
+  },
+  {
+    "index": 264,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-05T06:10:58 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 27,
+    "consignee": "Jana Riley",
+    "shipmentNumber": "BS-4995"
+  },
+  {
+    "index": 265,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-09-06T10:05:23 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 15,
+    "consignee": "Mooney Waller",
+    "shipmentNumber": "CM-8725"
+  },
+  {
+    "index": 266,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-06T10:00:45 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 34,
+    "consignee": "Vaughn Cooley",
+    "shipmentNumber": "QA-6596"
+  },
+  {
+    "index": 267,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-03T11:34:15 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 26,
+    "consignee": "Alyssa Rollins",
+    "shipmentNumber": "CM-5059"
+  },
+  {
+    "index": 268,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-02T01:29:29 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 46,
+    "consignee": "Andrea Hoffman",
+    "shipmentNumber": "QA-8523"
+  },
+  {
+    "index": 269,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-29T02:54:01 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 15,
+    "consignee": "Nellie Santana",
+    "shipmentNumber": "CM-3502"
+  },
+  {
+    "index": 270,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-10T08:00:50 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 13,
+    "consignee": "Lynne Singleton",
+    "shipmentNumber": "QA-4030"
+  },
+  {
+    "index": 271,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-17T07:55:45 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 30,
+    "consignee": "Le Terry",
+    "shipmentNumber": "VG-8423"
+  },
+  {
+    "index": 272,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-20T02:02:22 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 4,
+    "consignee": "Munoz Oliver",
+    "shipmentNumber": "BS-9326"
+  },
+  {
+    "index": 273,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-02-14T08:27:01 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 10,
+    "consignee": "Stacy Bolton",
+    "shipmentNumber": "BS-6045"
+  },
+  {
+    "index": 274,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-20T02:18:14 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 34,
+    "consignee": "Marisa Hendrix",
+    "shipmentNumber": "CM-8361"
+  },
+  {
+    "index": 275,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-20T08:49:19 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 44,
+    "consignee": "Alejandra Ewing",
+    "shipmentNumber": "RE-6495"
+  },
+  {
+    "index": 276,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-05-06T03:15:17 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 41,
+    "consignee": "Tabatha Levine",
+    "shipmentNumber": "QA-3616"
+  },
+  {
+    "index": 277,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-18T09:12:57 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 8,
+    "consignee": "Avila Conway",
+    "shipmentNumber": "BS-6948"
+  },
+  {
+    "index": 278,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-27T06:13:52 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 20,
+    "consignee": "Darcy Shields",
+    "shipmentNumber": "QA-7697"
+  },
+  {
+    "index": 279,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-08-12T10:58:18 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 31,
+    "consignee": "Matilda Maxwell",
+    "shipmentNumber": "RE-9573"
+  },
+  {
+    "index": 280,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-21T06:13:54 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 9,
+    "consignee": "Carol Willis",
+    "shipmentNumber": "RE-2083"
+  },
+  {
+    "index": 281,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-28T08:24:35 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 29,
+    "consignee": "James Wood",
+    "shipmentNumber": "VG-7447"
+  },
+  {
+    "index": 282,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-30T07:51:25 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 26,
+    "consignee": "Kristi Rosales",
+    "shipmentNumber": "CM-2242"
+  },
+  {
+    "index": 283,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-02T10:03:20 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 31,
+    "consignee": "Therese Terrell",
+    "shipmentNumber": "CM-8398"
+  },
+  {
+    "index": 284,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-22T03:33:43 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 3,
+    "consignee": "Haley Avila",
+    "shipmentNumber": "QA-4509"
+  },
+  {
+    "index": 285,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-11-02T03:18:27 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 28,
+    "consignee": "Ramirez Odonnell",
+    "shipmentNumber": "BS-2627"
+  },
+  {
+    "index": 286,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-07-23T06:54:26 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 41,
+    "consignee": "Heath Raymond",
+    "shipmentNumber": "VG-1478"
+  },
+  {
+    "index": 287,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-01-04T05:42:58 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 23,
+    "consignee": "Hamilton Sherman",
+    "shipmentNumber": "RE-8664"
+  },
+  {
+    "index": 288,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-22T02:09:26 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 40,
+    "consignee": "Padilla Marshall",
+    "shipmentNumber": "QA-2620"
+  },
+  {
+    "index": 289,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-01T10:47:11 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 20,
+    "consignee": "Warren Armstrong",
+    "shipmentNumber": "VG-5753"
+  },
+  {
+    "index": 290,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-30T07:58:01 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 23,
+    "consignee": "Claudia Cooke",
+    "shipmentNumber": "VG-1450"
+  },
+  {
+    "index": 291,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-07T11:12:52 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 28,
+    "consignee": "Moreno Glass",
+    "shipmentNumber": "CM-4800"
+  },
+  {
+    "index": 292,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-14T05:59:11 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 13,
+    "consignee": "Freda Estes",
+    "shipmentNumber": "VG-9077"
+  },
+  {
+    "index": 293,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-07-29T09:00:27 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 10,
+    "consignee": "Sylvia Baird",
+    "shipmentNumber": "CM-9148"
+  },
+  {
+    "index": 294,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-08T04:35:38 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 15,
+    "consignee": "Lydia Mcleod",
+    "shipmentNumber": "VG-4583"
+  },
+  {
+    "index": 295,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-04-21T09:36:27 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 5,
+    "consignee": "Humphrey Garcia",
+    "shipmentNumber": "CM-7622"
+  },
+  {
+    "index": 296,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-11-02T06:09:18 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 35,
+    "consignee": "Brady Wright",
+    "shipmentNumber": "QA-2215"
+  },
+  {
+    "index": 297,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-12T12:25:56 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 34,
+    "consignee": "Shanna Vazquez",
+    "shipmentNumber": "QA-8248"
+  },
+  {
+    "index": 298,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-22T03:45:47 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 39,
+    "consignee": "Brigitte Mcgee",
+    "shipmentNumber": "QA-6824"
+  },
+  {
+    "index": 299,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-26T10:58:14 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 16,
+    "consignee": "Eve Montoya",
+    "shipmentNumber": "BS-8796"
+  },
+  {
+    "index": 300,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-10-29T05:55:21 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 28,
+    "consignee": "Tamera Finley",
+    "shipmentNumber": "CM-7591"
+  },
+  {
+    "index": 301,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-25T10:38:16 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 47,
+    "consignee": "Sparks Torres",
+    "shipmentNumber": "QA-1793"
+  },
+  {
+    "index": 302,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-04T05:17:26 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 6,
+    "consignee": "Cantrell Holden",
+    "shipmentNumber": "VG-8517"
+  },
+  {
+    "index": 303,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-07-04T10:12:03 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 5,
+    "consignee": "Liliana Mcmillan",
+    "shipmentNumber": "RE-2483"
+  },
+  {
+    "index": 304,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-31T09:08:09 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 46,
+    "consignee": "House Blake",
+    "shipmentNumber": "CM-2919"
+  },
+  {
+    "index": 305,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-24T08:25:52 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 26,
+    "consignee": "Janelle Ratliff",
+    "shipmentNumber": "BS-3716"
+  },
+  {
+    "index": 306,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-14T09:18:04 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 10,
+    "consignee": "Gutierrez Duncan",
+    "shipmentNumber": "VG-6922"
+  },
+  {
+    "index": 307,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-04T02:09:22 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 18,
+    "consignee": "Hope Holmes",
+    "shipmentNumber": "VG-4879"
+  },
+  {
+    "index": 308,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-07-25T05:44:46 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 48,
+    "consignee": "Smith Berg",
+    "shipmentNumber": "VG-5052"
+  },
+  {
+    "index": 309,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-22T01:19:30 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 7,
+    "consignee": "Ruthie Lamb",
+    "shipmentNumber": "CM-1547"
+  },
+  {
+    "index": 310,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-22T12:05:43 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 4,
+    "consignee": "Lois Scott",
+    "shipmentNumber": "RE-8631"
+  },
+  {
+    "index": 311,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-09-08T09:01:35 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 50,
+    "consignee": "Krystal Rutledge",
+    "shipmentNumber": "RE-2751"
+  },
+  {
+    "index": 312,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-08-21T08:16:08 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 30,
+    "consignee": "Salinas Massey",
+    "shipmentNumber": "VG-6698"
+  },
+  {
+    "index": 313,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-26T09:14:04 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 18,
+    "consignee": "Sherrie Young",
+    "shipmentNumber": "QA-5180"
+  },
+  {
+    "index": 314,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-23T12:40:28 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 20,
+    "consignee": "Blair Kirkland",
+    "shipmentNumber": "BS-3940"
+  },
+  {
+    "index": 315,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-10T11:29:32 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 12,
+    "consignee": "Tyler Alford",
+    "shipmentNumber": "QA-3848"
+  },
+  {
+    "index": 316,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-05T01:53:57 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 39,
+    "consignee": "Elsa Bird",
+    "shipmentNumber": "RE-8484"
+  },
+  {
+    "index": 317,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-15T08:35:47 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 32,
+    "consignee": "Peters Kline",
+    "shipmentNumber": "VG-2689"
+  },
+  {
+    "index": 318,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-20T02:53:04 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 9,
+    "consignee": "Chrystal Faulkner",
+    "shipmentNumber": "CM-5159"
+  },
+  {
+    "index": 319,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-09T11:09:13 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 12,
+    "consignee": "Teresa Myers",
+    "shipmentNumber": "VG-4674"
+  },
+  {
+    "index": 320,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-01-12T06:35:01 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 7,
+    "consignee": "Ruby Mendez",
+    "shipmentNumber": "BS-7514"
+  },
+  {
+    "index": 321,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-06-21T11:58:10 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 39,
+    "consignee": "Cash Meyers",
+    "shipmentNumber": "BS-7857"
+  },
+  {
+    "index": 322,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-22T01:21:43 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 17,
+    "consignee": "Pearl Bentley",
+    "shipmentNumber": "RE-2327"
+  },
+  {
+    "index": 323,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-07-09T05:19:47 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 48,
+    "consignee": "Hodges Mathis",
+    "shipmentNumber": "VG-8136"
+  },
+  {
+    "index": 324,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-05-07T06:47:08 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 39,
+    "consignee": "Rosemarie Watson",
+    "shipmentNumber": "QA-3320"
+  },
+  {
+    "index": 325,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-09-24T02:21:38 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 42,
+    "consignee": "Willis Callahan",
+    "shipmentNumber": "VG-7384"
+  },
+  {
+    "index": 326,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-19T12:52:43 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 29,
+    "consignee": "Carpenter Cash",
+    "shipmentNumber": "QA-9740"
+  },
+  {
+    "index": 327,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-04T09:58:38 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 42,
+    "consignee": "Larsen Carey",
+    "shipmentNumber": "QA-8181"
+  },
+  {
+    "index": 328,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-06-07T09:32:17 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 34,
+    "consignee": "Mcleod Fulton",
+    "shipmentNumber": "RE-6494"
+  },
+  {
+    "index": 329,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-02T06:26:28 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 38,
+    "consignee": "Nelda Hebert",
+    "shipmentNumber": "RE-3596"
+  },
+  {
+    "index": 330,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-04-02T01:47:13 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 18,
+    "consignee": "Knox Ortiz",
+    "shipmentNumber": "BS-1157"
+  },
+  {
+    "index": 331,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-18T08:37:10 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 49,
+    "consignee": "Virginia Hahn",
+    "shipmentNumber": "RE-9677"
+  },
+  {
+    "index": 332,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-09-16T01:53:42 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 42,
+    "consignee": "Petersen Pate",
+    "shipmentNumber": "BS-7949"
+  },
+  {
+    "index": 333,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-27T05:37:26 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 41,
+    "consignee": "Jerri Burt",
+    "shipmentNumber": "VG-5357"
+  },
+  {
+    "index": 334,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-26T06:43:09 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Black Sails",
+    "quantityInInventory": 2,
+    "consignee": "Isabella Gaines",
+    "shipmentNumber": "QA-9539"
+  },
+  {
+    "index": 335,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-13T05:35:06 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 43,
+    "consignee": "Verna Hamilton",
+    "shipmentNumber": "VG-1735"
+  },
+  {
+    "index": 336,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-06-25T02:09:02 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 13,
+    "consignee": "Jordan Boyle",
+    "shipmentNumber": "VG-1212"
+  },
+  {
+    "index": 337,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-08-03T07:21:48 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 39,
+    "consignee": "Eugenia Bradley",
+    "shipmentNumber": "QA-5600"
+  },
+  {
+    "index": 338,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-09T01:34:17 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 11,
+    "consignee": "Gay Bates",
+    "shipmentNumber": "BS-2320"
+  },
+  {
+    "index": 339,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-10-01T03:27:58 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 26,
+    "consignee": "Christensen Dotson",
+    "shipmentNumber": "QA-1850"
+  },
+  {
+    "index": 340,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-09-02T05:40:41 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 42,
+    "consignee": "Leah Hull",
+    "shipmentNumber": "BS-7167"
+  },
+  {
+    "index": 341,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-27T03:45:09 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 25,
+    "consignee": "Carmella Byers",
+    "shipmentNumber": "VG-8165"
+  },
+  {
+    "index": 342,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-21T10:34:04 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 11,
+    "consignee": "Corine Mercer",
+    "shipmentNumber": "BS-9247"
+  },
+  {
+    "index": 343,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-09-23T03:56:44 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 23,
+    "consignee": "Rhonda Curtis",
+    "shipmentNumber": "QA-3127"
+  },
+  {
+    "index": 344,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-14T12:55:45 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 26,
+    "consignee": "Owens Daugherty",
+    "shipmentNumber": "QA-1323"
+  },
+  {
+    "index": 345,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-08-15T12:13:47 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Black Sails",
+    "quantityInInventory": 23,
+    "consignee": "Willa Gentry",
+    "shipmentNumber": "QA-1444"
+  },
+  {
+    "index": 346,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-05-07T05:16:42 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 40,
+    "consignee": "Heather Whitehead",
+    "shipmentNumber": "CM-2777"
+  },
+  {
+    "index": 347,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-11-27T12:36:21 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 22,
+    "consignee": "Howe Powell",
+    "shipmentNumber": "BS-6424"
+  },
+  {
+    "index": 348,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-11-26T07:42:51 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 23,
+    "consignee": "Miller Short",
+    "shipmentNumber": "VG-8434"
+  },
+  {
+    "index": 349,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-20T09:34:25 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 35,
+    "consignee": "Downs Barber",
+    "shipmentNumber": "BS-3945"
+  },
+  {
+    "index": 350,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-18T06:38:19 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 33,
+    "consignee": "Greta Hester",
+    "shipmentNumber": "RE-4467"
+  },
+  {
+    "index": 351,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-31T08:59:23 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 11,
+    "consignee": "Freeman Chapman",
+    "shipmentNumber": "VG-9870"
+  },
+  {
+    "index": 352,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-18T10:09:27 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 4,
+    "consignee": "Mason Wilson",
+    "shipmentNumber": "RE-7948"
+  },
+  {
+    "index": 353,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-02-11T07:36:51 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 8,
+    "consignee": "Snider Mays",
+    "shipmentNumber": "CM-2138"
+  },
+  {
+    "index": 354,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-07T02:02:49 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 5,
+    "consignee": "Juliette Snow",
+    "shipmentNumber": "RE-5970"
+  },
+  {
+    "index": 355,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-03-05T04:41:29 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 9,
+    "consignee": "Shelby Silva",
+    "shipmentNumber": "VG-2791"
+  },
+  {
+    "index": 356,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-03T03:33:46 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 25,
+    "consignee": "Todd Carlson",
+    "shipmentNumber": "RE-7682"
+  },
+  {
+    "index": 357,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-17T09:40:53 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 30,
+    "consignee": "Mcdowell Ballard",
+    "shipmentNumber": "BS-9945"
+  },
+  {
+    "index": 358,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-18T04:27:19 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 37,
+    "consignee": "Barrera Ryan",
+    "shipmentNumber": "RE-9773"
+  },
+  {
+    "index": 359,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-16T03:57:41 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 38,
+    "consignee": "Ford Gonzalez",
+    "shipmentNumber": "VG-5659"
+  },
+  {
+    "index": 360,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-29T02:42:42 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 21,
+    "consignee": "Bass Lloyd",
+    "shipmentNumber": "QA-1040"
+  },
+  {
+    "index": 361,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-25T10:33:48 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 32,
+    "consignee": "Margaret Day",
+    "shipmentNumber": "RE-3845"
+  },
+  {
+    "index": 362,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-07-28T09:01:02 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 30,
+    "consignee": "Hansen Wheeler",
+    "shipmentNumber": "QA-2522"
+  },
+  {
+    "index": 363,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-14T06:41:30 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 44,
+    "consignee": "Glenda Bush",
+    "shipmentNumber": "QA-5326"
+  },
+  {
+    "index": 364,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-06T03:02:10 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 13,
+    "consignee": "Lindsay Huff",
+    "shipmentNumber": "RE-6791"
+  },
+  {
+    "index": 365,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-13T04:03:56 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 46,
+    "consignee": "Vanessa Henderson",
+    "shipmentNumber": "VG-8734"
+  },
+  {
+    "index": 366,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-07-23T09:02:17 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 3,
+    "consignee": "Sophia Hall",
+    "shipmentNumber": "QA-4774"
+  },
+  {
+    "index": 367,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-04T12:03:32 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 49,
+    "consignee": "June Reilly",
+    "shipmentNumber": "QA-6220"
+  },
+  {
+    "index": 368,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-11-12T10:08:21 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 8,
+    "consignee": "Nola Ware",
+    "shipmentNumber": "RE-2025"
+  },
+  {
+    "index": 369,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-10T07:53:44 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 33,
+    "consignee": "Salazar Pearson",
+    "shipmentNumber": "QA-6034"
+  },
+  {
+    "index": 370,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-04-28T05:47:25 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 4,
+    "consignee": "Kristy Sanders",
+    "shipmentNumber": "VG-6336"
+  },
+  {
+    "index": 371,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-25T03:52:58 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 45,
+    "consignee": "Fernandez French",
+    "shipmentNumber": "BS-8997"
+  },
+  {
+    "index": 372,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-16T06:56:06 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 6,
+    "consignee": "Gould Sloan",
+    "shipmentNumber": "BS-2518"
+  },
+  {
+    "index": 373,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-09T05:00:50 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 45,
+    "consignee": "Corina Flynn",
+    "shipmentNumber": "VG-7657"
+  },
+  {
+    "index": 374,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-09T07:19:08 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 44,
+    "consignee": "Carlson Barr",
+    "shipmentNumber": "BS-4614"
+  },
+  {
+    "index": 375,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-02-29T05:20:15 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 20,
+    "consignee": "Patrice Golden",
+    "shipmentNumber": "RE-5560"
+  },
+  {
+    "index": 376,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-09-30T06:30:03 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 10,
+    "consignee": "Tamika Sheppard",
+    "shipmentNumber": "CM-1241"
+  },
+  {
+    "index": 377,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-26T01:27:57 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 8,
+    "consignee": "Essie Gregory",
+    "shipmentNumber": "QA-6529"
+  },
+  {
+    "index": 378,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-11T07:59:51 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 24,
+    "consignee": "Pugh Vance",
+    "shipmentNumber": "BS-6363"
+  },
+  {
+    "index": 379,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-23T12:56:32 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 15,
+    "consignee": "Wood Reid",
+    "shipmentNumber": "BS-8188"
+  },
+  {
+    "index": 380,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-10-21T10:51:29 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 21,
+    "consignee": "Marcella Clemons",
+    "shipmentNumber": "CM-3240"
+  },
+  {
+    "index": 381,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-07-19T02:02:43 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 45,
+    "consignee": "Mabel Lambert",
+    "shipmentNumber": "CM-2728"
+  },
+  {
+    "index": 382,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-05T10:00:37 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 10,
+    "consignee": "Melody Rush",
+    "shipmentNumber": "BS-8686"
+  },
+  {
+    "index": 383,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-07-05T06:30:57 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Black Sails",
+    "quantityInInventory": 23,
+    "consignee": "Abbott Trujillo",
+    "shipmentNumber": "QA-5619"
+  },
+  {
+    "index": 384,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-24T05:14:37 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 6,
+    "consignee": "Hester Sexton",
+    "shipmentNumber": "VG-6521"
+  },
+  {
+    "index": 385,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-01T06:36:15 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 25,
+    "consignee": "Olivia Everett",
+    "shipmentNumber": "QA-5715"
+  },
+  {
+    "index": 386,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-06-04T11:07:45 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "The Pearl",
+    "quantityInInventory": 34,
+    "consignee": "Wagner Whitfield",
+    "shipmentNumber": "RE-1803"
+  },
+  {
+    "index": 387,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-10-28T08:04:28 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 9,
+    "consignee": "Hutchinson Head",
+    "shipmentNumber": "QA-6638"
+  },
+  {
+    "index": 388,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-28T07:42:18 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 3,
+    "consignee": "Sanders Mueller",
+    "shipmentNumber": "QA-4769"
+  },
+  {
+    "index": 389,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-24T01:51:14 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 18,
+    "consignee": "Hernandez Best",
+    "shipmentNumber": "BS-6152"
+  },
+  {
+    "index": 390,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-04T11:14:12 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 38,
+    "consignee": "Martin Gutierrez",
+    "shipmentNumber": "BS-2211"
+  },
+  {
+    "index": 391,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-06T04:40:17 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 24,
+    "consignee": "Horn Wallace",
+    "shipmentNumber": "QA-5654"
+  },
+  {
+    "index": 392,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-01T02:00:30 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 34,
+    "consignee": "Minerva Bradford",
+    "shipmentNumber": "RE-2025"
+  },
+  {
+    "index": 393,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-16T09:01:22 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 37,
+    "consignee": "Ball Manning",
+    "shipmentNumber": "VG-9894"
+  },
+  {
+    "index": 394,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-18T03:51:44 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Dauntless",
+    "quantityInInventory": 27,
+    "consignee": "Natalia Harmon",
+    "shipmentNumber": "CM-3015"
+  },
+  {
+    "index": 395,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-12T06:37:30 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 44,
+    "consignee": "Debora Powers",
+    "shipmentNumber": "BS-8886"
+  },
+  {
+    "index": 396,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-06-08T02:13:00 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Dauntless",
+    "quantityInInventory": 29,
+    "consignee": "Becky Kane",
+    "shipmentNumber": "RE-8941"
+  },
+  {
+    "index": 397,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-10-07T12:10:55 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 46,
+    "consignee": "Mari Baxter",
+    "shipmentNumber": "VG-6974"
+  },
+  {
+    "index": 398,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-10-20T04:16:08 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 21,
+    "consignee": "Marshall Luna",
+    "shipmentNumber": "CM-7109"
+  },
+  {
+    "index": 399,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-20T12:16:46 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 48,
+    "consignee": "Latonya Carson",
+    "shipmentNumber": "QA-5744"
+  },
+  {
+    "index": 400,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-12T05:44:23 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 42,
+    "consignee": "Velasquez Williamson",
+    "shipmentNumber": "VG-8558"
+  },
+  {
+    "index": 401,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-08-02T11:21:52 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 43,
+    "consignee": "Maynard Frederick",
+    "shipmentNumber": "BS-8409"
+  },
+  {
+    "index": 402,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-10-07T06:57:22 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 2,
+    "consignee": "Hilda Russell",
+    "shipmentNumber": "RE-2728"
+  },
+  {
+    "index": 403,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-11-28T07:22:32 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 21,
+    "consignee": "Joyner Steele",
+    "shipmentNumber": "CM-4718"
+  },
+  {
+    "index": 404,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-22T11:24:14 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 24,
+    "consignee": "Tillman Irwin",
+    "shipmentNumber": "BS-2557"
+  },
+  {
+    "index": 405,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-09-23T01:44:31 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 14,
+    "consignee": "Molina Wilkerson",
+    "shipmentNumber": "CM-9485"
+  },
+  {
+    "index": 406,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-14T01:29:26 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 12,
+    "consignee": "Burch Hopper",
+    "shipmentNumber": "BS-5078"
+  },
+  {
+    "index": 407,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-05-26T04:53:36 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 9,
+    "consignee": "Lily Dawson",
+    "shipmentNumber": "QA-2689"
+  },
+  {
+    "index": 408,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-02-03T03:32:45 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 34,
+    "consignee": "Hammond Patterson",
+    "shipmentNumber": "CM-3075"
+  },
+  {
+    "index": 409,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-11-17T08:53:17 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 41,
+    "consignee": "Gilda Mann",
+    "shipmentNumber": "BS-8066"
+  },
+  {
+    "index": 410,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-07-22T06:31:51 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 2,
+    "consignee": "Beverly Lane",
+    "shipmentNumber": "BS-8304"
+  },
+  {
+    "index": 411,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-02-11T03:50:57 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 7,
+    "consignee": "Eliza Medina",
+    "shipmentNumber": "RE-4919"
+  },
+  {
+    "index": 412,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-05-03T07:33:19 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 46,
+    "consignee": "Shelton Abbott",
+    "shipmentNumber": "VG-9026"
+  },
+  {
+    "index": 413,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-05-28T09:05:34 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 34,
+    "consignee": "Aileen Fitzpatrick",
+    "shipmentNumber": "QA-2019"
+  },
+  {
+    "index": 414,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-31T01:13:21 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Dauntless",
+    "quantityInInventory": 30,
+    "consignee": "Deidre Holcomb",
+    "shipmentNumber": "VG-6969"
+  },
+  {
+    "index": 415,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-08-20T06:18:09 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 34,
+    "consignee": "Carolina Gilmore",
+    "shipmentNumber": "BS-6681"
+  },
+  {
+    "index": 416,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-20T02:27:18 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 23,
+    "consignee": "Baxter Deleon",
+    "shipmentNumber": "VG-9819"
+  },
+  {
+    "index": 417,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-19T10:01:25 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 45,
+    "consignee": "Addie Velez",
+    "shipmentNumber": "VG-2400"
+  },
+  {
+    "index": 418,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-25T07:05:18 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 17,
+    "consignee": "Lee Pollard",
+    "shipmentNumber": "RE-9815"
+  },
+  {
+    "index": 419,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-27T12:17:51 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 21,
+    "consignee": "Sue Underwood",
+    "shipmentNumber": "RE-3035"
+  },
+  {
+    "index": 420,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-30T05:21:52 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 9,
+    "consignee": "Elva Moses",
+    "shipmentNumber": "VG-8725"
+  },
+  {
+    "index": 421,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-11-11T04:28:05 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 18,
+    "consignee": "Jensen Warner",
+    "shipmentNumber": "RE-2566"
+  },
+  {
+    "index": 422,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-01T11:36:49 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 47,
+    "consignee": "Walters Roach",
+    "shipmentNumber": "CM-6209"
+  },
+  {
+    "index": 423,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-31T07:46:08 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 30,
+    "consignee": "Pamela Hatfield",
+    "shipmentNumber": "CM-9774"
+  },
+  {
+    "index": 424,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-09T04:05:20 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "The Pearl",
+    "quantityInInventory": 38,
+    "consignee": "Socorro Cain",
+    "shipmentNumber": "QA-6071"
+  },
+  {
+    "index": 425,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-01-04T04:54:53 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 30,
+    "consignee": "Valerie Aguilar",
+    "shipmentNumber": "QA-5083"
+  },
+  {
+    "index": 426,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-17T02:29:45 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 23,
+    "consignee": "Pam Hale",
+    "shipmentNumber": "RE-5790"
+  },
+  {
+    "index": 427,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-05-08T08:54:15 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 34,
+    "consignee": "Amelia Ferrell",
+    "shipmentNumber": "QA-4900"
+  },
+  {
+    "index": 428,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-01-17T06:39:14 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Dauntless",
+    "quantityInInventory": 40,
+    "consignee": "Gena Jordan",
+    "shipmentNumber": "CM-9303"
+  },
+  {
+    "index": 429,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-04T08:50:10 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 4,
+    "consignee": "Barry Estrada",
+    "shipmentNumber": "BS-2791"
+  },
+  {
+    "index": 430,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-04-10T07:43:00 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Dauntless",
+    "quantityInInventory": 37,
+    "consignee": "Sears Hickman",
+    "shipmentNumber": "VG-3750"
+  },
+  {
+    "index": 431,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-07-26T06:14:03 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 17,
+    "consignee": "French Cortez",
+    "shipmentNumber": "BS-6388"
+  },
+  {
+    "index": 432,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-12T07:08:34 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 21,
+    "consignee": "Davis Phillips",
+    "shipmentNumber": "BS-5300"
+  },
+  {
+    "index": 433,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-04-28T02:09:43 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 19,
+    "consignee": "Rose Gillespie",
+    "shipmentNumber": "QA-3457"
+  },
+  {
+    "index": 434,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-08-03T11:00:31 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 37,
+    "consignee": "Lorrie Jacobson",
+    "shipmentNumber": "CM-7737"
+  },
+  {
+    "index": 435,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-02-26T08:58:44 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 14,
+    "consignee": "Lucia Nixon",
+    "shipmentNumber": "RE-1284"
+  },
+  {
+    "index": 436,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-06-26T09:29:51 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "The Pearl",
+    "quantityInInventory": 32,
+    "consignee": "Susie Atkins",
+    "shipmentNumber": "QA-8889"
+  },
+  {
+    "index": 437,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-06-04T06:23:37 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 43,
+    "consignee": "Simpson Savage",
+    "shipmentNumber": "CM-1814"
+  },
+  {
+    "index": 438,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-10-19T06:16:07 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 47,
+    "consignee": "Dianna Hayden",
+    "shipmentNumber": "VG-8105"
+  },
+  {
+    "index": 439,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-11-26T01:46:16 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 32,
+    "consignee": "Shields Johnson",
+    "shipmentNumber": "QA-8843"
+  },
+  {
+    "index": 440,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-12-01T11:15:01 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Black Sails",
+    "quantityInInventory": 10,
+    "consignee": "Hogan Guthrie",
+    "shipmentNumber": "BS-1230"
+  },
+  {
+    "index": 441,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-02-18T06:54:17 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "The Pearl",
+    "quantityInInventory": 28,
+    "consignee": "Hurley Shepard",
+    "shipmentNumber": "QA-6340"
+  },
+  {
+    "index": 442,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-10-29T04:03:33 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 7,
+    "consignee": "Leanne Horn",
+    "shipmentNumber": "BS-7146"
+  },
+  {
+    "index": 443,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-11-01T07:09:29 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 16,
+    "consignee": "Merritt Knight",
+    "shipmentNumber": "QA-8687"
+  },
+  {
+    "index": 444,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-07-19T11:33:12 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 34,
+    "consignee": "Holman Hoover",
+    "shipmentNumber": "CM-8577"
+  },
+  {
+    "index": 445,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-01-12T04:17:39 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 25,
+    "consignee": "Pacheco Rosario",
+    "shipmentNumber": "BS-6800"
+  },
+  {
+    "index": 446,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-20T10:04:19 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "HM Royal Carrier",
+    "quantityInInventory": 48,
+    "consignee": "George Holder",
+    "shipmentNumber": "RE-5656"
+  },
+  {
+    "index": 447,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-02T02:54:31 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 36,
+    "consignee": "Lopez Austin",
+    "shipmentNumber": "QA-2411"
+  },
+  {
+    "index": 448,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-21T01:27:39 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 30,
+    "consignee": "Gill Decker",
+    "shipmentNumber": "RE-2894"
+  },
+  {
+    "index": 449,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-11-04T02:44:39 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 35,
+    "consignee": "Marci Chase",
+    "shipmentNumber": "BS-3774"
+  },
+  {
+    "index": 450,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-09-22T05:29:24 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 30,
+    "consignee": "Underwood Wolf",
+    "shipmentNumber": "VG-1032"
+  },
+  {
+    "index": 451,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-22T06:45:42 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 47,
+    "consignee": "Ofelia Lara",
+    "shipmentNumber": "BS-4798"
+  },
+  {
+    "index": 452,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-03-28T07:22:18 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 41,
+    "consignee": "Bean Meadows",
+    "shipmentNumber": "QA-7114"
+  },
+  {
+    "index": 453,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-10-09T08:59:56 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 28,
+    "consignee": "Effie Black",
+    "shipmentNumber": "BS-5141"
+  },
+  {
+    "index": 454,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-03-03T12:02:28 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "The Pearl",
+    "quantityInInventory": 35,
+    "consignee": "Leblanc Russo",
+    "shipmentNumber": "BS-7464"
+  },
+  {
+    "index": 455,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-04-07T11:32:10 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 25,
+    "consignee": "Trudy Rich",
+    "shipmentNumber": "RE-4047"
+  },
+  {
+    "index": 456,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-07-23T01:48:32 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 30,
+    "consignee": "Stanton Bryant",
+    "shipmentNumber": "BS-7557"
+  },
+  {
+    "index": 457,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-20T12:35:38 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Black Sails",
+    "quantityInInventory": 45,
+    "consignee": "Roberta Flores",
+    "shipmentNumber": "VG-6824"
+  },
+  {
+    "index": 458,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-01-07T01:56:58 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Sea Empress",
+    "quantityInInventory": 4,
+    "consignee": "Jewell Bennett",
+    "shipmentNumber": "QA-8470"
+  },
+  {
+    "index": 459,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-01-31T02:21:29 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Black Sails",
+    "quantityInInventory": 13,
+    "consignee": "Tiffany Curry",
+    "shipmentNumber": "VG-8373"
+  },
+  {
+    "index": 460,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-10-18T02:14:52 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 33,
+    "consignee": "Albert Banks",
+    "shipmentNumber": "BS-2709"
+  },
+  {
+    "index": 461,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-05-06T04:46:54 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "The Pearl",
+    "quantityInInventory": 35,
+    "consignee": "Bernadette Petersen",
+    "shipmentNumber": "RE-7950"
+  },
+  {
+    "index": 462,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-09-15T12:47:02 +05:00",
+    "agent": "Freight Handlers Ltd",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 38,
+    "consignee": "Suzanne Neal",
+    "shipmentNumber": "QA-3748"
+  },
+  {
+    "index": 463,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-03-04T03:46:21 +05:00",
+    "agent": "Lanaman and Morris",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 28,
+    "consignee": "Townsend Turner",
+    "shipmentNumber": "CM-6202"
+  },
+  {
+    "index": 464,
+    "cargoDescription": "Salt",
+    "actualArrivalDate": "2016-02-24T05:08:52 +05:00",
+    "agent": "Carbbean Freight Handlers",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 50,
+    "consignee": "Henry Dennis",
+    "shipmentNumber": "RE-1744"
+  },
+  {
+    "index": 465,
+    "cargoDescription": "Bauxite",
+    "actualArrivalDate": "2016-05-18T09:13:16 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Ocean Steel",
+    "quantityInInventory": 23,
+    "consignee": "Bridges Rivers",
+    "shipmentNumber": "RE-2146"
+  },
+  {
+    "index": 466,
+    "cargoDescription": "Corrugated Iron",
+    "actualArrivalDate": "2016-04-08T06:37:21 +05:00",
+    "agent": "Sea Freight",
+    "vessel": "Dauntless",
+    "quantityInInventory": 41,
+    "consignee": "Estela Cervantes",
+    "shipmentNumber": "BS-8244"
+  },
+  {
+    "index": 467,
+    "cargoDescription": "Steel",
+    "actualArrivalDate": "2016-08-08T02:38:32 +05:00",
+    "agent": "Jamaica Freight and Shipping",
+    "vessel": "Black Sails",
+    "quantityInInventory": 4,
+    "consignee": "Jenna Kinney",
+    "shipmentNumber": "BS-2963"
+  },
+  {
+    "index": 468,
+    "cargoDescription": "Lumber",
+    "actualArrivalDate": "2016-04-29T04:24:37 +05:00",
+    "agent": "Maritime and Transport",
+    "vessel": "Boeing 87",
+    "quantityInInventory": 19,
+    "consignee": "Kathrine Burgess",
+    "shipmentNumber": "CM-3311"
+  }
+]

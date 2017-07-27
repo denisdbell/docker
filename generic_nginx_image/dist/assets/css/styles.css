@@ -1,0 +1,149 @@
+h3 {
+    font-size: 20px;
+}
+h4 {
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+form h4, form h5, form h6 {
+    margin: 10px 0px;
+}
+
+label.control-label {
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+#extr-page #main.login-main {
+    background-color: transparent !important;
+    background-image: url('../img/login-slide.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#extr-page #main.login-main .about-heading,
+#extr-page #main.login-main p,
+#extr-page #main.login-main h1,
+#extr-page #main.login-main h4,
+#extr-page #main.login-main h5 {
+    color: #fff;
+}
+
+#extr-page #main.login-main h5 {
+    text-transform: uppercase;
+}
+
+.about-agent > div {
+    margin: 5px;
+    padding: 15px 15px;
+    background-color: rgba(0, 0, 0, .70);
+    min-height: 214px;
+}
+#extr-page #main.login-main .action-btn-cnt {
+    margin-top: 15px;
+}
+#extr-page #main.login-main .banner h1 {
+    font-size: 36px;
+}
+#extr-page #main.login-main .banner h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#workflow-progress,
+#vc-processing-progress {
+    margin: 15px 0px 35px 0px;
+}
+
+.step.step-success {
+    background-color: #468847 !important;
+}
+
+.adv-accordion-content {
+    margin-bottom: 15px;
+}
+
+.ui-accordion-content.table-responsive {
+    padding: 0px;
+}
+
+.required-field-marker {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 0px;
+}
+
+.padding-top-27 {
+    padding-top: 27px;
+}
+
+.text-cell {
+    max-width: 120px;
+}
+
+.number-cell {
+    max-width: 70px;
+}
+
+select.form-control {
+    max-width: 100%;
+}
+.form-group .select2 {
+    width: 100%;
+}
+
+.ng-invalid, .select2.ng-invalid .selection .select2-selection {
+    border-color: red;
+}
+
+.vessel-call-details p {
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.vessel-call-details h5 {
+    color: #949494;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.form-control.select2-hidden-accessible {
+    display: none;
+}
+
+.select2-results__option.select2-results__option--highlighted {
+    cursor: pointer;
+}
+
+.select2.select2-container {
+    width: 100% !important;
+}
+
+.has-success .select2 .select2-selection {
+    border-color: #468847 !important;
+}
+
+.has-error .select2 .select2-selection {
+    border-color: #953b39 !important;
+}
+
+.selection-column {
+    width: 10%;
+}
+
+.jarviswidget .form-actions {
+    margin-bottom: 0px;
+}
+
+.jarviswidget .widget-body {
+    padding-bottom: 0px;
+}
+
+.ui-widget.ui-datepicker {
+    z-index: 1051!important; /* Over the modal dialog z-index */
+}
